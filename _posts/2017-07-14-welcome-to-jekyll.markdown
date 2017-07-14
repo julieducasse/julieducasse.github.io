@@ -24,4 +24,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
-![GitHub test](/thumbnail.png)
+![GitHub test]({{julieducasse.github.io}}/thumbnail.png)
