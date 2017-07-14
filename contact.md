@@ -7,6 +7,8 @@ permalink: /projects/
 
 Julie Ducasse
 
+{% include image name="thumbnail.png" caption="test" %}
+
 ![image](thumbnail.png)
 
 <img class="img" src="thumbnail.png">
