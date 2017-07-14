@@ -10,8 +10,3 @@ permalink: /projects/
 
 Tangible Reels: construction and exploration of tangible maps and diagrams
 
-
-
-
-
-## Tangible Box
