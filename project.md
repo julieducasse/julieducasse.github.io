@@ -4,9 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-
-Julie Ducasse
-
 ## Tangible Reels
 
 <img class="picture" src="/assets/thumbnail.png">
