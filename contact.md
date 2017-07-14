@@ -6,3 +6,7 @@ permalink: /projects/
 
 
 Julie Ducasse
+
+<img src="test.jpg">
+
+Test
