@@ -7,10 +7,4 @@ permalink: /projects/
 
 Julie Ducasse
 
-<img src="/assets/thumbnail.png">
-
-Test
-
-<img src="/assets/thumbnail.png" width="200"/>
-
-Test
+<img class="picture" src="/assets/thumbnail.png">
