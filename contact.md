@@ -11,6 +11,6 @@ Julie Ducasse
 
 ![image test](thumbnail.png)
 
-<img class="img" src="thumbnail.png">
+<img src="thumbnail.png">
 
 Test
