@@ -7,6 +7,6 @@ permalink: /projects/
 
 Julie Ducasse
 
-<img src="test.jpg">
+<img src="thumbnail.png">
 
 Test
