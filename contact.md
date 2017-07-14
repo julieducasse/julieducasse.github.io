@@ -9,7 +9,7 @@ Julie Ducasse
 
 {% include image name="thumbnail.png" caption="test" %}
 
-![image](thumbnail.png)
+![image test](thumbnail.png)
 
 <img class="img" src="thumbnail.png">
 
