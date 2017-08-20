@@ -15,7 +15,7 @@ Collaborators and/or co-authors: Anke Brock, Christophe Jouffrais.
 
 # In short
 
-![summary](/assets/posts/Literature Review 1.png)  
+![summary](/assets/posts/Literature review 1.png)  
 
 This work is an attempt to structure the work that had been conducted on accessible interactive maps. 
 It provides an exhaustive list of interactive maps prototypes, from the earliest, proposed by Parkes in 1988, to prototypes designed in 2016. It also describes a new classification.
