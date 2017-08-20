@@ -4,19 +4,95 @@
 
 @import "minima";
 
+h1 {
+	margin-top: 30px;
+	color: $grey-color-dark;
+	font-variant: small-caps;
+}
+h1:first-child { margin-top: 0px;}
+
 h2 {
-        display:block;
+   display:block;
+	margin: 0;
+}
+
+h4 {
+	margin-top: 0px;
+	color: $grey-color-dark;
 }
 
 .picture {
         height: 100px;
         width: 100px;
+		  max-width: 100px;
         position: relative;
-        margin: -10px 0 0 15px;
+        margin: 5px 30px 0 0px;
         float: left;
-        border-radius: 50%;
         p & {
             padding: 0;
             margin: 0;
         }
+		  display: block;
     }
+
+ul li {
+	 margin-top: 0px;
+    margin-bottom: 0px;
+	 list-style-type: none;
+}
+
+.site-header {
+  padding-top: 30px;
+  border-top: 5px solid $grey-color-dark;
+  border-bottom: 1px solid $grey-color-light;
+  min-height: $spacing-unit * 3;
+
+  // Positioning context for the mobile navigation icon
+  position: relative;
+}
+
+.site-title {
+  @include relative-font-size(1.625);
+  font-weight: 300;
+  line-height: $base-line-height * $base-font-size * 2.25;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+
+  &,
+  &:visited {
+    color: #2c823e;
+  }
+  
+  &:hover {
+	color: #2c823e;
+	text-decoration: none;
+  }
+}
+
+a {
+  color: #2c823e;
+  text-decoration: none;
+
+  &:visited {
+    color: #2c823e;
+  }
+
+  &:hover {
+    color: $grey-color-dark;
+    text-decoration: none;
+  }
+
+  .social-media-list &:hover {
+    text-decoration: none;
+
+    .username {
+      text-decoration: none;
+    }
+  }
+}
+
+.post-link {
+  display: block;
+  @include relative-font-size(1.3);
+}

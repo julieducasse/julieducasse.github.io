@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "BotMap"
+date:   2017-08-01 15:05:48 +0200
+categories: jekyll update
+image: /assets/icons/botMap.jpg
+summary: BotMap is an actuated tabletop TUI that supports non-visual panning and zooming. 
+---
+BotMap is an actuated tabletop TUI (based on robots) that supports non-visual panning and zooming.
+  
+Collaborators and/or co-authors: Bernard Oriola, Marc Macé, Christophe Jouffrais.
+
+# Publications / videos 
+*No publications yet*   
+*Video coming soon* 
+
+# In short
+
+![test](/assets/posts/BotMap 1.png)
+
+BotMap is an actuated tabletop TUI that enables visually impaired users to explore maps by panning and zooming. 
+
+Small robots represent landmarks and move to their correct position whenever the map is refreshed. 
+Users can interact with the robots to retrieve the names of the landmarks they represent and a number of voice commands facilitates the exploration.
+
+We designed two interfaces, named Keyboard and Sliders, which enable users to pan and zoom. 
+Audio feedback is provided to help users understand which part of the map is currently displayed.
+
+We conducted three user studies:
+1. A first study with 10 blindfolded participants demonstrated the usability of the two interfaces in terms of navigation, with a slight advantage for the Keyboard interface.
+2. A second study with 8 visually impaired participants showed that visually impaired users can understand pan & zoom maps and that they were able to perform panning and zooming actions, although this was cognitively demanding. 
+3. 3 blindfolded and 3 visually impaired performed a realistic task using a map of Africa and gave feedback on the usability of three navigational aids.
