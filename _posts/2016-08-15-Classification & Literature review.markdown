@@ -11,7 +11,7 @@ Together with <a href="http://people.bordeaux.inria.fr/abrock/">Anke Brock</a>, 
 Collaborators and/or co-authors: Anke Brock, Christophe Jouffrais.
 
 # Publications / videos 
-[Publication - Mobility in Visually Impaired People - Fundamentals and ICT Assistive Technologies, Springer, 2017](https://hal.inria.fr/hal-01515347)
+[Publication - Mobility in Visually Impaired People - Fundamentals and ICT Assistive Technologies, Springer, 2018](https://link.springer.com/chapter/10.1007/978-3-319-54446-5_17)
 
 # In short
 
