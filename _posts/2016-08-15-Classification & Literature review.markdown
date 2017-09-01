@@ -22,7 +22,7 @@ It provides an exhaustive list of interactive maps prototypes, from the earliest
 It is based on Anke Brock’s thesis dissertation. In my thesis, I extended this classification to accessible diagrams.
 
 *Digital* maps and diagrams can be displayed on a screen or projected onto a flat surface. 
-They can be explored with one or many points of contact, which are either direct (e.g. fingertips) or indirect (e.g. the cursor of a mouse).
+They can be explored with one or two points of contact, which are either direct (e.g. fingertips) or indirect (e.g. the cursor of a mouse).
 More precisely, digital maps can be explored by:
 1. regular devices (keyboard, joystick, tangible pointing devices) 
 2. pointing devices with additionnal force feedback(mice, gamepads and joysticks, handles) or cutaneous feedback (e.g. mice augmented with Braille cell)
