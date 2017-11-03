@@ -6,7 +6,7 @@ categories: jekyll update
 image: /assets/icons/book.png
 summary: In october 2017, I successfully defended my thesis, entitled "tabletop tangible maps and diagrams for visually impaired users".
 ---
-In october 2016, I successfully defended my thesis, entitle "tabletop tangible maps and diagrams for visually impaired users".  
+In october 2017, I successfully defended my thesis, entitle "tabletop tangible maps and diagrams for visually impaired users".  
 
 The jury was composed of:
 - [Timo Götzelmann](http://www.in.th-nuernberg.de/professors/Goetzelmann/index.html), Professor, Nuremberg Institute of Technology
