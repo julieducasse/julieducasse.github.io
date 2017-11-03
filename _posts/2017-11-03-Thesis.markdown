@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Thesis"
+date:   2017-11-03 15:05:48 +0200
+categories: jekyll update
+image: /assets/icons/book.png
+summary: In october 2017, I successfully defended my thesis, entitled "tabletop tangible maps and diagrams for visually impaired users".
+---
+In october 2016, I successfully defended my thesis, entitle "tabletop tangible maps and diagrams for visually impaired users".  
+
+The jury was composed of:
+- [Timo Götzelmann](http://www.in.th-nuernberg.de/professors/Goetzelmann/index.html), Professor, Nuremberg Institute of Technology
+- [Brygg Ullmer](https://www.lsu.edu/eng/cse/people/faculty/ullmer.php), Professor, School of Computing, Clemson University
+- [Emmanuel Dubois](https://www.irit.fr/~Emmanuel.Dubois/), Professor, IRIT, Université Toulouse 3 Paul Sabatier
+- [Julie Lemarié](http://www.univ-tlse2.fr/julie-lemarie-26546.kjsp), Associate Professor, CLLE, Université Toulouse 2 Jean Jaures
+- [Valérie Maquil](http://valeriemaquil.eu), Researcher, Luxembourg Institute of Technology
+  
+# Publications 
+[Thesis manuscript - PDF](/assets/pdf/Thesis Julie Ducasse.pdf)  
+[Résumé détaillé en français - PDF](/assets/pdf/Résumé détaillé.pdf)
+
+# In short
+Despite their omnipresence and essential role in our everyday lives, online and printed graphical representations are inaccessible
+to visually impaired people because they cannot be explored using the sense of touch. The gap between sighted and visually impaired people’s access 
+to graphical representations is constantly growing due to the increasing development and availability of online and dynamic representations 
+that not only give sighted people the opportunity to access large amounts of data, but also to interact with them using advanced functionalities 
+such as panning, zooming and filtering. In contrast, the techniques currently used to make maps and diagrams accessible to visually impaired people 
+require the intervention of tactile graphics specialists and result in non-interactive tactile representations.
+
+However, based on recent advances in the automatic production of content, we can expect in the coming years a growth in the availability of adapted content, 
+which must go hand-in-hand with the development of affordable and usable devices. In particular, these devices should make full use of visually impaired users’ 
+perceptual capacities and support the display of interactive and updatable representations. A number of research prototypes have already been developed. 
+Some rely on digital representation only, and although they have the great advantage of being instantly updatable, they provide very limited tactile feedback, 
+which makes their exploration cognitively demanding and imposes heavy restrictions on content. On the other hand, most prototypes that rely on digital 
+and physical representations allow for a two-handed exploration that is both natural and efficient at retrieving and encoding spatial information, but 
+they are physically limited by the use of a tactile overlay, making them impossible to update. Other alternatives are either extremely expensive 
+(e.g. braille tablets) or offer a slow and limited way to update the representation (e.g. maps that are 3D-printed based on users’ inputs).
+
+In this thesis, we propose to bridge the gap between these two approaches by investigating how to develop physical interactive maps and diagrams 
+that support two-handed exploration, while at the same time being updatable and affordable. To do so, we build on previous research on 
+Tangible User Interfaces (TUI) and particularly on (actuated) tabletop TUIs, two fields of research that have surprisingly received 
+little interest concerning visually impaired users. Based on the design, implementation and evaluation of three tabletop TUIs 
+(the [Tangible Reels](https://julieducasse.github.io/jekyll/update/2016/07/14/Tangible-Reels.html), 
+the [Tangible Box](https://julieducasse.github.io/jekyll/update/2017/08/02/Tangible-Box.html) and 
+[BotMap](https://julieducasse.github.io/jekyll/update/2017/08/01/BotMap.html)), we propose innovative non-visual interaction techniques and technical solutions 
+that will hopefully serve as a basis for the design of future TUIs for visually impaired users, and encourage their development and use. 
+We investigate how tangible maps and diagrams can support various tasks, ranging from the (re)construction of diagrams to the exploration 
+of maps by panning and zooming. From a theoretical perspective we contribute to the research on accessible graphical representations by 
+highlighting how research on maps can feed research on diagrams and vice-versa. We also propose a [classification](https://julieducasse.github.io/jekyll/update/2016/08/14/Classification-&-Literature-review.html)
+ and comparison of existing prototypes to deliver a structured overview of current research.
