@@ -22,6 +22,7 @@ Google EMEA Anita Borg scholarship (2014).
 3 years scholarship awarded by French ministry for my PhD Thesis.
 
 # Academic profile  
-Master’s degree in Human-Computer Interaction. Toulouse.  
-Bachelor degree in Applied Mathematics in Social Sciences (Cognitive Science). Bordeaux.  
-Bachelor's degree in Modern Literature. Bordeaux.  
+PhD in Human-Computer Interaction. Toulouse, France.  
+Master’s degree in Human-Computer Interaction. Toulouse, France.  
+Bachelor degree in Applied Mathematics in Social Sciences (Cognitive Science). Bordeaux, France.  
+Bachelor's degree in Modern Literature. Bordeaux, France.  
