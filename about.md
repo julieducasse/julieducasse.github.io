@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # Supervising
-2017 | Nicolas Billiotte, 2nd year undergraduate student – manufacture of the Tangible Box  
+2017 | Nicolas Billiotte, 2 ^ nd ^ year undergraduate student – manufacture of the Tangible Box  
 2016 | Ludovic Lesur, 4th year engineering school’s student – development of an actuated bar chart  
 2016 | Paul Mesnigrente, 2nd year postgraduate student – implementation of a tracking algorithm  
 2015 | Adrien Dax, 1st year postgraduate student – development of an actuated tangible object  
