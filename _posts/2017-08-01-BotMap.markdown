@@ -12,6 +12,7 @@ Collaborators and/or co-authors: Bernard Oriola, Marc Macé, Christophe Jouffrai
 
 # Publications / videos 
 BotMap: Non-Visual Panning and Zooming with an Actuated Tabletop Tangible Interface. To appear in Transactions on Computer-Human Interaction (2018).
+
 *Video coming soon* 
 
 # In short
