@@ -12,7 +12,8 @@ Collaborators and/or co-authors: Nicolas Biliote (internship), Bernard Oriola, M
 
 # Publications / videos 
 *No publications yet*   
-*Video coming soon*   
+[video](https://vimeo.com/265334617)
+
 
 # In short
 
