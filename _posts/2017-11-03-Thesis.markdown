@@ -4,7 +4,7 @@ title:  "Thesis"
 date:   2017-11-03 15:05:48 +0200
 categories: jekyll update
 image: /assets/icons/book.png
-summary: In october 2017, I successfully defended my thesis, entitled "tabletop tangible maps and diagrams for visually impaired users".
+summary: In october 2017, I successfully defended my thesis, entitled "Tabletop tangible maps and diagrams for visually impaired users".
 ---
 In october 2017, I successfully defended my thesis, entitle "tabletop tangible maps and diagrams for visually impaired users".  
 
