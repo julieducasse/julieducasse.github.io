@@ -4,7 +4,7 @@ title:  "Augmented comic books"
 date:   2018-10-01 15:05:48 +0200
 categories: jekyll update
 image: /assets/icons/book.png
-summary: I helped my new co-workers at the [HICUP Lab](dist.famnit.upr.si/en/HICUP) conducting a study on digitally-augmented comic books.
+summary: I helped my new co-workers at the HICUP Lab conduct a study on digitally-augmented comic books.
 ---
 # Publications 
 
