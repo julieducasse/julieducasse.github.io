@@ -13,6 +13,8 @@ Collaborators and/or co-authors: Nicolas Biliote (internship), Bernard Oriola, M
 # Publications / videos 
 *No publications yet*   
 [video](https://vimeo.com/265334617)
+[video from AccessiJeux](https://www.youtube.com/watch?v=PpVpGOFkz2M)
+
 
 
 # In short
