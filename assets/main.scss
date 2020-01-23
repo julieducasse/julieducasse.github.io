@@ -12,40 +12,54 @@ h1 {
 h1:first-child { margin-top: 0px;}
 
 h2 {
-   display:block;
-	margin: 0;
+  display:block;
+  color: $grey-color-dark;
+	margin-top: 30px;
+}
+
+h3 {
+	margin-top: 30px;
+	color: $grey-color;
 }
 
 h4 {
-	margin-top: 0px;
-	color: $grey-color-dark;
+	margin-top: 30px;
+  color: $grey-color;
+  font-style: italic;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .picture {
-        height: 100px;
-        width: 100px;
-		  max-width: 100px;
-        position: relative;
-        margin: 5px 30px 0 0px;
-        float: left;
-        p & {
-            padding: 0;
-            margin: 0;
-        }
-		  display: block;
-    }
+  // height: 90px;
+  // width: 90px;
+	max-height: 90px;
+  position: relative;
+  // margin: 5px 30px 0 0px;
+  margin: 0 2% 0 0;
+  float: left;
+  p & {
+    padding: 0;
+    margin: 0;
+  }
+	display: block;
+}
 
 ul li {
-	 margin-top: 0px;
-    margin-bottom: 0px;
-	 list-style-type: none;
+	margin-top: 0px;
+  margin-bottom: 0px;
+	list-style-type: square;
 }
 
 .site-header {
-  padding-top: 30px;
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 3;
+  padding-top: 20px;
+  border-top: 0px solid $grey-color-dark;
+  border-bottom: 3px solid $grey-color-light;
+  min-height: $spacing-unit * 2;
 
   // Positioning context for the mobile navigation icon
   position: relative;

@@ -1,0 +1,31 @@
+{% assign entries = site.posts %}
+
+<!-- {% if include.sort_by == 'title' %}
+  {% if include.sort_order == 'reverse' %}
+    {% assign entries = entries | sort: 'title' | reverse %}
+  {% else %}
+    {% assign entries = entries | sort: 'title' %}
+  {% endif %}
+{% elsif include.sort_by == 'date' %}
+  {% if include.sort_order == 'reverse' %}
+    {% assign entries = entries | sort: 'date' | reverse %}
+  {% else %}
+    {% assign entries = entries | sort: 'date' %}
+  {% endif %}
+{% endif %} -->
+
+{% if include.collection == 'research' %}
+    {% assign entries = entries | where: "tags" , "research" %}
+{% endif %}
+
+{% if include.collection == 'notebook' %}
+    {% assign entries = entries | where: "tags" , "notebook" %}
+{% endif %}
+
+{% if include.collection == 'selection' %}
+    {% assign entries = entries | where: "tags" , "selection" %}
+{% endif %}
+
+{%- for entry in entries -%}
+  {% include entry.html %}
+{%- endfor -%}

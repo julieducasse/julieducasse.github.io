@@ -3,11 +3,13 @@ layout: post
 title:  "BotMap"
 date:   2017-08-01 15:05:48 +0200
 categories: jekyll update
-image: /assets/icons/botMap.jpg
+tags: [PhD, research]
+image: 
+    thumbnail: /assets/icons/botmap.png
 summary: BotMap is an actuated tabletop TUI that supports non-visual panning and zooming. 
 ---
 BotMap is an actuated tabletop TUI (based on robots) that supports non-visual panning and zooming.
-  
+
 Collaborators and/or co-authors: Bernard Oriola, Marc Macé, Christophe Jouffrais.
 
 # Publications / videos 

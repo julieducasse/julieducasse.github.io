@@ -3,7 +3,7 @@
  */
 .site-header {
   border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-bottom: 2px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -37,7 +37,9 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: mediumseagreen;
+    font-size: medium ;
+    text-decoration: none;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -106,14 +108,17 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
-  padding: $spacing-unit 0;
+  border-top: 2px solid $grey-color-light;
+  padding-top: 0;
+  margin-top: 0;
 }
 
 .footer-heading {
-  @include relative-font-size(1.125);
+  @include relative-font-size(1);
   margin-bottom: $spacing-unit / 2;
   color: $grey-color_dark;
+  padding-bottom: 20;
+  margin-top: $spacing-unit / 2;
 }
 
 .contact-list,
@@ -225,8 +230,17 @@
 .post-content {
   margin-bottom: $spacing-unit;
 
+  h1 {
+    @include relative-font-size(1.8);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.75);
+    }
+  }
+
+
   h2 {
-    @include relative-font-size(2);
+    @include relative-font-size(1.75);
 
     @include media-query($on-laptop) {
       @include relative-font-size(1.75);

@@ -2,40 +2,6 @@
 layout: default
 ---
 
-<div class="home">
-
-  {{ content }}
+{{ content }}
   
-  <h1 class="page-heading">In short</h1>
-   <p>I am a post-doctoral researcher at the University of Primorska in Slovenia. I am working at the <a href =http://dist.famnit.upr.si/en/HICUP)>HICUP LAB</a>
-	   and I am also part of the <a href=https://innorenew.eu/>InnoRenew</a> project.</p>
-	
-   <p>During my thesis, I worked on the accessibility of maps and diagrams for visually impaired people. 
-	   I investigated to what extent the physicality and reconfigurability of tangible interfaces 
-	   could improve the accessibility of maps and diagrams, through the design, 
-	   development and evaluation of tabletop tangible interfaces.
-   	   My work was part of the <a href ="https://www.irit.fr/accessimap/en/">AccessiMap</a> national research project 
-	   and I was supervised by <a href="https://www.irit.fr/~Christophe.Jouffrais/">Christophe Jouffrais</a> 
-	   and <a href="https://www.irit.fr/~Marc.Mace/">Marc Macé</a>. </p>
-	
-  <h1 class="page-heading">Publications</h1>
-  The list of publications is available <a href=https://www.irit.fr/-Publications-?code=8712&nom=Ducasse+Julie>here.</a>
 
-  <h1 class="page-heading">Projects</h1>
-  
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        {% assign date_format = site.minima.date_format | default: "%Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-		  <img class="picture" src = {{post.image}}>
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-		  <h4>{{ post.summary}}</h4>
-		  <div style="float: none; clear: both;"></div>
-      </li>
-    {% endfor %}
-  </ul>
-</div>

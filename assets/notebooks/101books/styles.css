@@ -1,0 +1,84 @@
+div.tooltip {
+    color: white ;
+    position: fixed;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding: 0px 5px 0px 5px;
+    font-family: 'Garamond', serif;
+    font-weight: bolder;
+    font-size: 15px;
+    background: darkslategrey;
+    /* border-radius: 10px 15px 100px 50px; */
+    pointer-events: none;
+    border-top-left-radius: 300px 15px;
+    border-top-right-radius: 15px 225px;
+    border-bottom-right-radius: 275px 15px;
+    border-bottom-left-radius:15px 255px;
+    border:solid 2px transparent;
+    line-height: 20px;
+  }
+
+ div .tooltip-author {
+   position: relative;
+   color: white;
+ }
+
+ div .tooltip-title {
+  position: relative;
+  color: lightpink;
+}
+
+
+
+
+.peak {
+  fill: orange;
+}
+
+/* svg {
+  border: solid 1px blue;
+} */
+
+#section-1 {
+  position:relative;
+  width: 800px;
+}
+
+#section-1 img {
+  width: 800px;
+}
+
+#svg-section-1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+/* #section-1 img {
+  border: solid 1px red;
+} */
+
+.tick text {
+  /* font-style: italic; */
+  font-size: 14px;
+  /* font-family: 'Mansalva', cursive; */
+  font-family: 'Pacifico', cursive;
+  font-weight: lighter;
+  color:darkslategrey;
+  /* text-transform: uppercase; */
+}
+
+.axis--x text {
+  /* font-style: italic; */
+  font-size: 12px;
+  /* font-family: 'Mansalva', cursive; */
+  font-family: 'Pacifico', cursive;
+  font-weight: lighter;
+  color:darkslategrey;
+  /* text-transform: uppercase; */
+}
+
+/* .tick {
+  border: 10px solid black;
+} */

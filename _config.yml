@@ -26,9 +26,16 @@ github_username:  jekyll
 markdown: kramdown
 kramdown: 
   parse_block_html: true
+  auto_ids: true
 theme: minima
-gems:
+plugins:
   - jekyll-feed
+
+# If you want to link only specific pages in your header, uncomment 
+# this and add the path to the pages in order as they should show up 
+header_pages: 
+  - notebook.md
+  - research.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

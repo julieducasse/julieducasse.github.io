@@ -67,6 +67,7 @@ figcaption {
  */
 ul, ol {
   margin-left: $spacing-unit;
+  list-style-type: circle;
 }
 
 li {
@@ -118,9 +119,10 @@ a {
  */
 blockquote {
   color: $grey-color;
-  border-left: 4px solid $grey-color-light;
+  border-left: 2px solid $grey-color-light;
+  margin-left: 20px;
   padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
+  @include relative-font-size(1.05);
   letter-spacing: -1px;
   font-style: italic;
 

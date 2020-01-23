@@ -3,11 +3,14 @@ layout: post
 title:  "Tangible Reels"
 date:   2016-07-14 15:05:48 +0200
 categories: jekyll update
-image: /assets/icons/tangibleReels.png
+tags: [PhD, research]
+image: 
+    path: /assets/icons/tangibleReels.png
+    thumbnail: /assets/icons/tangibleReels.png
 summary: The Tangible Reels are a novel type of tangible objects that enable visually impaired users to construct and explore tangible maps and diagrams.
 ---
 The Tangible Reels are a novel type of tangible objects that enable visually impaired users to construct and explore tangible maps and diagrams.
-  
+
 Collaborators and/or co-authors: Marcos Serrano, Bernard Oriola, Marc Macé, Christophe Jouffrais.
 
 # Publications / videos 
@@ -28,5 +31,5 @@ A retractable reel is attached to the Weights or the Sucker Pads to enable the u
 The user is guided to place the Tangible Reels in their right place by audio instructions. Once the map or diagram is built, they can explore it using a pointing gesture. 
 
 We conducted two user studies with visually impaired participants to assess the stability of the Tangible Reels (Study 1) and the overall usability of the interface (Study 2).
-  
+
 
