@@ -5,7 +5,7 @@ date:   2017-08-02 15:05:48 +0200
 categories: jekyll update
 tags: [PhD, research]
 image: 
-    thumbnail: /assets/icons/tangiblebox.png
+    thumbnail: /assets/icons/tangibleBox.png
 excerpt: The Tangible Box enhances tactile graphics with tangible interaction, making them interactive and reconfigurable.
 ---
 The Tangible Box enhances tactile graphics with tangible interaction, making them interactive and reconfigurable. The first version was designed and developed during my PhD, together with 
