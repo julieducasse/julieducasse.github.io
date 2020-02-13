@@ -61,7 +61,7 @@ Et voici les maths qui se cachent derrière ce graphe interactif fort utile :
 
 Première étape, déterminer combien de billets peuvent être lus en *m* minutes.
 
-Si on prend pour exemple les 100 derniers billets, accessibles sur le blog de l'auteur, on apprend grâce à un petit script Python que la longueur moyenne d'un billet est d'environ 94 mots.
+Si on prend pour exemple les 100 derniers billets, accessibles sur le blog de l'auteur, on apprend grâce à un petit [script Python](https://github.com/julieducasse/julieducasse.github.io/blob/master/assets/notebooks/autofictif/getEntries.py) que la longueur moyenne d'un billet est d'environ 94 mots.
 
 Or, [Wikipedia](https://fr.wikipedia.org/wiki/Mot_par_minute) nous apprend qu'un adulte américain moyen lit entre 250 et 300 mots par minute, et il est mentionné [ici](https://www.actualitte.com/article/monde-edition/vous-lisez-probablement-moins-vite-que-ce-que-vous-croyez/95472) une étude selon laquelle un adulte lirait 260 mots par minute pour des livres de fiction. Comme les billets de Chevillard nécessitent un peu de gymnastique intellectuelle, partons sur une estimation basse: 250 mots par minute.
 
