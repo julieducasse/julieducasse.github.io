@@ -61,7 +61,7 @@ Et voici les maths qui se cachent derrière ce graphe interactif fort utile :
 
 Première étape, déterminer combien de billets peuvent être lus en *m* minutes.
 
-Si on prend pour exemple les 100 derniers billets, accessibles sur le blog de l'auteur, on apprend grâce à un petit script Python que la longueur moyenne d'un billet et d'environ 94 mots.
+Si on prend pour exemple les 100 derniers billets, accessibles sur le blog de l'auteur, on apprend grâce à un petit script Python que la longueur moyenne d'un billet est d'environ 94 mots.
 
 Or, [Wikipedia](https://fr.wikipedia.org/wiki/Mot_par_minute) nous apprend qu'un adulte américain moyen lit entre 250 et 300 mots par minute, et il est mentionné [ici](https://www.actualitte.com/article/monde-edition/vous-lisez-probablement-moins-vite-que-ce-que-vous-croyez/95472) une étude selon laquelle un adulte lirait 260 mots par minute pour des livres de fiction. Comme les billets de Chevillard nécessitent un peu de gymnastique intellectuelle, partons sur une estimation basse: 250 mots par minute.
 
@@ -69,7 +69,7 @@ Un simple tableau en croix nous apprend donc que nous pouvons lire 250/94 = 2.7 
 
 ### Nombre de jours de lecture
 
-Si Eric Chevillard arrêtait d'écrire au moment où notre lecteur commençait sa lecture, tout serait assez simple. Sachant que le blog existe depuis le 17 septembre 2017 (date trouvée en ligne mais que je dois encore vérifier !), il suffirait de compter le nombre de jours écoulés entre le 17 septembre 2017 et le jour J  pour trouver le nombre de billets disponibles, puis de diviser ce nombre par le nombre de billets que notre lecteur lit par jour. 
+Si Eric Chevillard arrêtait d'écrire au moment où notre lecteur commençait sa lecture, tout serait assez simple. Sachant que le blog existe depuis le 17 septembre 2017 (date trouvée en ligne mais que je dois encore vérifier !), il suffirait de compter le nombre de jours écoulés entre le 17 septembre 2017 et le jour J pour trouver le nombre de billets disponibles, puis de diviser ce nombre par le nombre de billets que notre lecteur lit par jour. 
 
 Le problème (mais qui est en fait une bonne chose), c'est qu'Eric Chevillard écrit un billet tous les jours, et qu'il faut prendre cela en compte pour calculer la date fatidique à laquelle notre lecteur n'aura plus aucun billet à se mettre sous la dent.
 
