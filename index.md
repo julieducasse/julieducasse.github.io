@@ -16,7 +16,7 @@ You can see my research projects [here](research) and a list of my publications 
 
 When I'm not working, I am reading, travelling, learning Slovenian, designing data visualisations or supporting others in writing and editing documents (grant proposals, documentaries). You can find some projects and articles in my [Notebook](notebook).  
 
-<p style="color: RebeccaPurple">*I like to play with data as much as with words and I'm open to new opportunities so feel free to contact me for anything that involves data analysis or writing at ducajul@gmail.com*</p>
+<p style="color: RebeccaPurple">*I like to play with data as much as with words and I'm open to new opportunities so feel free to contact me for anything that involves data analysis or writing at ducajul@gmail.com*.</p>
 
 # Selected projects
 
