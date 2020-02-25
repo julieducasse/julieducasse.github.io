@@ -8,7 +8,7 @@ collection: research
 
 # Awards
 In 2019, I received an award from IFRATH for my PhD on the topic of tangible maps and diagrams for visually impaired people.  
-In 2014, I received an award from Google for my achievements as young female computer scientists. 
+In 2015, I received an award from Google for my achievements as young female computer scientists. 
 
 # Research topics
 At the HICUP Lab, I am studying how people interact and engage with interactive web documentaries, through data-based analyses of [iOtok](https://dist.famnit.upr.si/en/media/interactive-document), a socially engaged webdoc describing the life of of the last 13 inhabitants of the Croatian island of Biševo, threatened by mass tourism.
