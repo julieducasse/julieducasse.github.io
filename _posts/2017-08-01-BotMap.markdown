@@ -13,7 +13,7 @@ BotMap is an actuated tabletop TUI (based on robots) that supports non-visual pa
 Collaborators and/or co-authors: Bernard Oriola, Marc Macé, Christophe Jouffrais.
 
 # Publications / videos 
-[BotMap: Non-Visual Panning and Zooming with an Actuated Tabletop Tangible Interface. ACM Transactions on Computer-Human Interaction. 2018.](assets/pdf/2018 TOCHI-BotMap.pdf)
+[BotMap: Non-Visual Panning and Zooming with an Actuated Tabletop Tangible Interface. ACM Transactions on Computer-Human Interaction. 2018.](assets/pdf/2018 TOCHI-BotMap.pdf)  
 [Video](https://www.youtube.com/watch?v=pnD4T4BWKp8)
 
 
