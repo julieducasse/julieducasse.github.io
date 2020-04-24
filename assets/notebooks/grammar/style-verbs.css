@@ -1,0 +1,119 @@
+.menu {
+    /* background-color: white; */
+    /* border: .1em solid black; */
+    margin-bottom: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.submenu {
+    margin-bottom: .6em;
+    height: 30px;
+}
+
+.menu-title {
+    font-weight: bold;
+    color: rgb(66, 66, 66);
+}
+
+.menu-item {
+    display: inline-block;
+    /* width:80px; */
+    text-align: right;
+}
+
+.menu-item label{
+    text-align:center;
+    display:inline-block;
+    width:70px;
+}
+
+.label {
+    background-color: cadetblue;
+    color: white;
+}
+
+.label.active {
+    background-color: coral;
+    color: white;
+    font-weight: bold;
+}
+
+.v {
+    color: coral;
+    font-weight: bold;
+}
+
+input[type="checkbox"] {
+    visibility: hidden;
+    position: absolute;
+}
+
+.sentence {
+    margin-bottom: .4em;
+}
+
+.slo {
+    color: coral;
+    font-weight: bold;
+}
+
+.slo-n {
+    color: coral;
+    font-weight: normal;
+}
+
+.en {
+    color: lightslategrey;
+    font-weight: bold;
+}
+
+table {
+    padding: 0;
+  }
+  table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* table tr:nth-child(2n) {
+    background-color: #f8f8f8;
+  } */
+  
+  table tr th {
+    font-weight: bold;
+    border: 1px solid #cccccc;
+    text-align: left;
+    margin: 0;
+    padding: 6px 13px;
+    background-color: #f8f8f8;
+  }
+  
+  table tr td {
+    border: 1px solid #cccccc;
+    text-align: left;
+    margin: 0;
+    padding: 6px 13px;
+  }
+  
+  table tr th :first-child, table tr td :first-child {
+    margin-top: 0;
+  }
+  
+  table tr th :last-child, table tr td :last-child {
+    margin-bottom: 0;
+  }
+
+  .container-entire {
+    border: 1px solid #f8f8f8;
+    background-color: #f8f8f8;
+  }
+
+  .container {
+    margin: 1em;
+  }
+
+
+
+

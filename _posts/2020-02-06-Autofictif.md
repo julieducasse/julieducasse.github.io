@@ -21,8 +21,8 @@ Le modeste outil que voici donne la réponse :
 <div class="container" id="dataviz">
 
 {::nomarkdown}
-    <link rel="stylesheet" href="/assets/notebooks/autofictif/style.css">
-      <div id="menu" class="menu" align="left">
+  <link rel="stylesheet" href="/assets/notebooks/autofictif/style.css">
+  <div id="menu" class="menu" align="left">
     <div class = "menu-item" id="menu-date">
         <p>Date de début : </p>
         <input type="date" name="startDate" id="date_picker" value="2020-01-30" min="2020-01-30"
