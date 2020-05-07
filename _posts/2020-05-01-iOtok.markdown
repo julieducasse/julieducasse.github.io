@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "iOtok"
+date:   2020-05-01 15:05:48 +0200
+categories: jekyll update
+image: 
+    thumbnail: /assets/icons/iOtok.png
+tags: [hicup, research]
+excerpt: We are studying the impact and usability of web documentaries, using iOtok as a case study.
+---
+
+iOtok is a web documentary composed of 13 episodes that were released on a weekly basis in 2017, in Slovenia and Croatia. It tells the story of the last inhabitants of Biševo, a small croatian island threatened by mass tourism. We use it as a case study to understand how people interact with web-documentaries.
+
+# Publications 
+Interactive Web Documentaries: A Case Study of Audience Reception and User Engagement on iOtok. J.Ducasse, K. Pucihar, M. Kljun. 2020. To be published. 
+
+[Link to the dataset and R analysis](https://osf.io/4wjmz/)  
+[Slides with preliminary results](/assets/pdf/iOtok-preliminary.pptx)
+
+# In short
+
+![iOtok](/assets/posts/iOtok.png)
+
+We are looking at several aspects of the reception of iOtok. The first two points are presented in the above-mentioned publication. Other points will be adressed in future publications.
+1. **Audience reception**: which channels were the most effective? Social media, newsletter, news portal, etc. What do motivate people to return to the website regularly?
+2. Is **interactivity** a good thing? In order to acccess the core videos of each episode, users had to click on several elements. We analyse when/whether users quit the web-portal before reaching the video. We also look at how effective the other interactive features were (chat, news portal, audio narrations, etc.)
+3. How do users consume **videos**? Do they skip content? Do they binge-watch? In what order to they watch the episodes?
+4. What was/is the **social impact** of iOtok? Did it affect the lives of the inhabitants of Biševo? Did it raise awareness? 
